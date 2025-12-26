@@ -1,4 +1,4 @@
-# SQL Advent Calendar 2024
+# SQL Advent Calendar 2025
 
 This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge.
 
